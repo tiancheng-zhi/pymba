@@ -35,6 +35,7 @@ PIXEL_FORMATS = {
     "BayerGR8": 1,
     "BayerGR12": 2,
     "BayerGR12Packed": 1.5,  # ?
+    "BayerGB8": 1,
 }
 
 
